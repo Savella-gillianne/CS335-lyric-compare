@@ -136,7 +136,7 @@ Options:
   --help                  Show this message and exit.
 ```
 
-###Testing:
+### Testing:
 Several test prompts have been included in testPrompts.txt along with directions, sample outputs, and the dataset used for each query.
 The lyrics used should return their respective songs within the top 3 results.
 
